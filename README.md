@@ -22,3 +22,4 @@ Note: App was only designed for the iPhone SE
 
                          Above: Screenshot of the "Success" screen in the Miracle Pills app
 
+Code Source: DevSlopes - https://devslopes.com
